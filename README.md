@@ -15,7 +15,7 @@ Software Versions
 -----------------
 *mothur*: version 1.31.2
 *R*: version 3.0.2
-R Packages - vegan 2.0-10
+R Packages - vegan 2.0-9
 
 Datebase Versions
 ------------------------
